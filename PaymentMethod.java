@@ -1,10 +1,10 @@
 
 public enum PaymentMethod {
-	CASH,
-	VISA,
-	MASTER;
+  CASH,
+  VISA,
+  MASTER;
 
-	PaymentMethod(){
+  PaymentMethod() {
 
-	}
+  }
 }
